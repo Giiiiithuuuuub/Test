@@ -1,5 +1,7 @@
 package ETL;
 
+import org.apache.hadoop.hive.shims.HadoopShims;
+
 /**
  * @author Yu HaiFeng
  * @Description
@@ -48,5 +50,6 @@ public class ETLUtils {
 
         return builder.toString();
     }
+
 
 }
