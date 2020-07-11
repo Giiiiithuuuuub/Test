@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/JavaWebTest" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../MapReduce_Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/MapReduce_Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../BigData/04_hadoop生态/05_尚硅谷大数据技术之Hadoop/05_尚硅谷大数据技术之Hadoop/3.代码/day08_code/MapReduceDEMO/pom.xml" />
+        <option value="$PROJECT_DIR$/../BigData/04_hadoop生态/06_尚硅谷大数据技术之Zookeeper/ZookeeperDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Zookeeper_Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/SelfDefined/pom.xml" />
+        <option value="$PROJECT_DIR$/ETL/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWebTest/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootTest/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootTest2/pom.xml" />
+        <option value="$PROJECT_DIR$/HadoopReview/pom.xml" />
+        <option value="$PROJECT_DIR$/MyInterceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/KafkaDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Flume_ETL/pom.xml" />
+        <option value="$PROJECT_DIR$/Scala/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenTest/pom.xml" />
+        <option value="$PROJECT_DIR$/Parent/pom.xml" />
+        <option value="$PROJECT_DIR$/JDBCReview/pom.xml" />
+        <option value="$PROJECT_DIR$/Summer/pom.xml" />
+        <option value="$PROJECT_DIR$/Java8/pom.xml" />
+        <option value="$PROJECT_DIR$/Spark/pom.xml" />
+        <option value="D:/软件汇总/QQ/temp/1414359640/FileRecv/summer-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/SummerTest/pom.xml" />
+        <option value="$PROJECT_DIR$/HBase/pom.xml" />
+        <option value="$PROJECT_DIR$/Phoenix/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStore/pom.xml" />
+        <option value="$PROJECT_DIR$/Git&amp;Github/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/GitGithub/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

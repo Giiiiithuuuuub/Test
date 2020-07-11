@@ -1,0 +1,10 @@
+hello scala
+scala IronMan
+IronMan hadoop
+IronMan flume
+IronMan kafka
+hello hadoop
+asdf asdf
+asdf
+
+bbb bbb

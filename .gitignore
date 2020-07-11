@@ -1,0 +1,21 @@
+# Project exclude paths
+/DataStore/target/
+/ETL/target/
+/Flume_ETL/target/
+/HadoopReview/target/
+/HBase/target/
+/Java8/target/
+/JavaWebTest/target/
+/JDBCReview/target/
+/KafkaDemo/target/
+/MapReduce_Demo/target/
+/MavenTest/target/
+/MyInterceptor/target/
+/out/
+/Phoenix/target/
+/Scala/target/
+/SelfDefined/target/
+/Spark/target/
+/Summer/target/
+/SummerTest/target/
+/Zookeeper_Demo/target/

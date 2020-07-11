@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStore/DataStore.iml" filepath="$PROJECT_DIR$/DataStore/DataStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DebugTest/DebugTest.iml" filepath="$PROJECT_DIR$/DebugTest/DebugTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETL/ETL.iml" filepath="$PROJECT_DIR$/ETL/ETL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flume_ETL/Flume_ETL.iml" filepath="$PROJECT_DIR$/Flume_ETL/Flume_ETL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HBase/HBase.iml" filepath="$PROJECT_DIR$/HBase/HBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HadoopReview/HadoopReview.iml" filepath="$PROJECT_DIR$/HadoopReview/HadoopReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDEA_workspace2_jdk1.8.iml" filepath="$PROJECT_DIR$/IDEA_workspace2_jdk1.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCReview/JDBCReview.iml" filepath="$PROJECT_DIR$/JDBCReview/JDBCReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8/Java8.iml" filepath="$PROJECT_DIR$/Java8/Java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWebTest/JavaWebTest.iml" filepath="$PROJECT_DIR$/JavaWebTest/JavaWebTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KafkaDemo/KafkaDemo.iml" filepath="$PROJECT_DIR$/KafkaDemo/KafkaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BigData/04_hadoop生态/05_尚硅谷大数据技术之Hadoop/05_尚硅谷大数据技术之Hadoop/3.代码/day08_code/MapReduceDEMO/MapReduceDEMO.iml" filepath="$PROJECT_DIR$/../BigData/04_hadoop生态/05_尚硅谷大数据技术之Hadoop/05_尚硅谷大数据技术之Hadoop/3.代码/day08_code/MapReduceDEMO/MapReduceDEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapReduce_Demo/MapReduce_Demo.iml" filepath="$PROJECT_DIR$/MapReduce_Demo/MapReduce_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenTest/MavenTest.iml" filepath="$PROJECT_DIR$/MavenTest/MavenTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyInterceptor/MyInterceptor.iml" filepath="$PROJECT_DIR$/MyInterceptor/MyInterceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parent/Parent.iml" filepath="$PROJECT_DIR$/Parent/Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phoenix/Phoenix.iml" filepath="$PROJECT_DIR$/Phoenix/Phoenix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scala/Scala.iml" filepath="$PROJECT_DIR$/Scala/Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelfDefined/SelfDefined.iml" filepath="$PROJECT_DIR$/SelfDefined/SelfDefined.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelfStudy/SelfStudy.iml" filepath="$PROJECT_DIR$/SelfStudy/SelfStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spark/Spark.iml" filepath="$PROJECT_DIR$/Spark/Spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootTest/SpringBootTest.iml" filepath="$PROJECT_DIR$/SpringBootTest/SpringBootTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootTest2/SpringBootTest2.iml" filepath="$PROJECT_DIR$/SpringBootTest2/SpringBootTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Summer/Summer.iml" filepath="$PROJECT_DIR$/Summer/Summer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SummerTest/SummerTest.iml" filepath="$PROJECT_DIR$/SummerTest/SummerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WarnningTest/WarnningTest.iml" filepath="$PROJECT_DIR$/WarnningTest/WarnningTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BigData/04_hadoop生态/06_尚硅谷大数据技术之Zookeeper/ZookeeperDemo/ZookeeperDemo.iml" filepath="$PROJECT_DIR$/../BigData/04_hadoop生态/06_尚硅谷大数据技术之Zookeeper/ZookeeperDemo/ZookeeperDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zookeeper_Demo/Zookeeper_Demo.iml" filepath="$PROJECT_DIR$/Zookeeper_Demo/Zookeeper_Demo.iml" />
+    </modules>
+  </component>
+</project>

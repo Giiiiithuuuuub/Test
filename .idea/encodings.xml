@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DataStore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ETL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ETL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Flume_ETL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Flume_ETL/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HBase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HBase/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HadoopReview/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HadoopReview/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JDBCReview/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JDBCReview/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWebTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWebTest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/KafkaDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/KafkaDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MapReduce_Demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MapReduce_Demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenTest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyInterceptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyInterceptor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Phoenix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Phoenix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Scala/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Scala/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SelfDefined/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SelfDefined/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spark/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spark/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootTest2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Summer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Summer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SummerTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SummerTest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zookeeper_Demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Zookeeper_Demo/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

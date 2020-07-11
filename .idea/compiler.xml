@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Flume_ETL" />
+        <module name="SpringBootTest2" />
+        <module name="KafkaDemo" />
+        <module name="Scala" />
+        <module name="Zookeeper_Demo" />
+        <module name="MapReduce_Demo" />
+        <module name="JavaWebTest" />
+        <module name="JDBCReview" />
+        <module name="ZookeeperDemo" />
+        <module name="Summer" />
+        <module name="MavenTest" />
+        <module name="ETL" />
+        <module name="HadoopReview" />
+        <module name="MyInterceptor" />
+        <module name="GitGithub" />
+        <module name="Java8" />
+        <module name="Phoenix" />
+        <module name="SummerTest" />
+        <module name="Spark" />
+        <module name="SpringBootTest" />
+        <module name="HBase" />
+        <module name="SelfDefined" />
+        <module name="DataStore" />
+        <module name="MapReduceDEMO" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="DataStore" target="8" />
+      <module name="ETL" target="1.8" />
+      <module name="Flume_ETL" target="1.8" />
+      <module name="GitGithub" target="8" />
+      <module name="HadoopReview" target="8" />
+      <module name="HBase" target="8" />
+      <module name="Java8" target="8" />
+      <module name="JavaWebTest" target="8" />
+      <module name="JDBCReview" target="8" />
+      <module name="KafkaDemo" target="8" />
+      <module name="MapReduce_Demo" target="8" />
+      <module name="MapReduceDEMO" target="1.8" />
+      <module name="MavenTest" target="8" />
+      <module name="MyInterceptor" target="8" />
+      <module name="Parent" target="8" />
+      <module name="Phoenix" target="8" />
+      <module name="Scala" target="8" />
+      <module name="SelfDefined" target="1.8" />
+      <module name="spark" target="8" />
+      <module name="Spark" target="8" />
+      <module name="SpringBootTest" target="8" />
+      <module name="SpringBootTest2" target="8" />
+      <module name="Summer" target="8" />
+      <module name="summer-framework" target="8" />
+      <module name="SummerTest" target="8" />
+      <module name="Zookeeper_Demo" target="1.8" />
+      <module name="ZookeeperDemo" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBootTest" options="-parameters" />
+      <module name="SpringBootTest2" options="-parameters" />
+    </option>
+  </component>
+</project>
